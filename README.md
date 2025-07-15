@@ -1,6 +1,6 @@
 ﻿#  Vanilla JS Calculator
 
-A clean and responsive calculator built using *HTML, **CSS, and **vanilla JavaScript* (inline). 
+A clean and responsive calculator built using HTML, CSS, and vanilla JavaScript (inline). 
 
 ---
 
